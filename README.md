@@ -21,7 +21,7 @@ I'm a software engineer who's passionate about learning new technologies and app
 ### Robotics :robot: 
  - [Home Service Robot](https://github.com/max-kazak/HomeServiceRobot)
 
-### Mics :coffee: 
+### Misc :coffee: 
  - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller)
 
 
