@@ -1,6 +1,6 @@
 ## Hi, I'm Max 👋
 
-I'm a softwar engineer who's passionate about learning new technologies and applying them in real life. Check out the projects that I've worked on so far!  
+I'm a software engineer who's passionate about learning new technologies and applying them in real life. Check out the projects that I've worked on so far!  
  
 ### Autonomous Cars :car: 
 
