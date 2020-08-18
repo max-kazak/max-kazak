@@ -54,11 +54,6 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [MapMyWorld](https://github.com/max-kazak/RoboticsND-MapMyWorld)
  - [WhereAmI Robot](https://github.com/max-kazak/RoboticsND-WhereAmI)
 
-### Misc :coffee: 
- - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller)
- - [Linux setup](https://github.com/max-kazak/Linux_setup)
- - [CookieCutter DS template](https://github.com/max-kazak/template-ds)
-
 </td><td>
 
 ### Classes :mortar_board: 
@@ -69,6 +64,11 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [LeNet lab](https://github.com/max-kazak/CarND-LeNet-Lab)
  - [TensorFlow lab](https://github.com/max-kazak/CarND-TensorFlow-Lab)
  - [PageRank algorithm](https://github.com/max-kazak/PageRank)
+ 
+ ### Misc :coffee: 
+ - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller)
+ - [Linux setup](https://github.com/max-kazak/Linux_setup)
+ - [CookieCutter DS template](https://github.com/max-kazak/template-ds)
 
 </td>
 </tr>
