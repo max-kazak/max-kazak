@@ -12,7 +12,7 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Advanced Lane Finding](https://github.com/max-kazak/AdvancedLaneFinding)
  - [Basic Lane Finding](https://github.com/max-kazak/FindLaneLinesP1)
 
-### Computer Vision :camera: 
+### Computer Vision :eyes: 
  - [Sensor Fusion](https://github.com/max-kazak/SensorFusion)
  - [Extended Kalman Filter](https://github.com/max-kazak/EKF)
  - [Traffic Signs Classification](https://github.com/max-kazak/CarND_TrafficSigns_Classification) 
@@ -20,7 +20,7 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Motion Detection](https://github.com/max-kazak/CV_Motion_Detection)
  - [Augmented Reality](https://github.com/max-kazak/CV_AR)
 
-### Computational Photography
+### Computational Photography :camera: 
  - [Cinemagraph](https://github.com/max-kazak/CP_Cinemagrpah)
  - [Seam Carving](https://github.com/max-kazak/CP_Seam_Carving)
  - [Video Textures](https://github.com/max-kazak/CP_video_textures)
@@ -28,7 +28,7 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Panorama](https://github.com/max-kazak/CP_Panorama)
  - [Blending](https://github.com/max-kazak/CP_Pyramid_Blending)
 
-### Deep Learning
+### Deep Learning :brain: 
  - [House Detection](https://github.com/max-kazak/house_detection)
  - [House Number Detection](https://github.com/max-kazak/CV_House_Numbers_Detection)
  - [Temporal Differences](https://github.com/max-kazak/RL_Sutton)
@@ -41,7 +41,7 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [MapMyWorld](https://github.com/max-kazak/RoboticsND-MapMyWorld)
  - [WhereAmI Robot](https://github.com/max-kazak/RoboticsND-WhereAmI)
 
-### Classes
+### Classes :mortar_board: 
  - [Deep Learning excercises](https://github.com/max-kazak/deep-learning)
  - [Reinforcement Learning homeworks](https://github.com/max-kazak/RL_HW)
  - [Keras lab](https://github.com/max-kazak/CarND-Keras-Lab)
