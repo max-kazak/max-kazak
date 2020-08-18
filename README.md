@@ -1,7 +1,12 @@
 ## Hi, I'm Max 👋
 
 I'm a software engineer who's passionate about learning new technologies and applying them in real life. Check out the projects that I've worked on so far!  
- 
+
+<table>
+<tr>
+
+<td>
+
 ### Autonomous Cars :car: 
 
  - [Self-Driving Car](https://github.com/max-kazak/CarND-Capstone) 
@@ -12,6 +17,9 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Advanced Lane Finding](https://github.com/max-kazak/AdvancedLaneFinding)
  - [Basic Lane Finding](https://github.com/max-kazak/FindLaneLinesP1)
 
+</td>
+<td>
+
 ### Computer Vision :eyes: 
  - [Sensor Fusion](https://github.com/max-kazak/SensorFusion)
  - [Extended Kalman Filter](https://github.com/max-kazak/EKF)
@@ -19,6 +27,10 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Object Tracking](https://github.com/max-kazak/CV_Tracking)
  - [Motion Detection](https://github.com/max-kazak/CV_Motion_Detection)
  - [Augmented Reality](https://github.com/max-kazak/CV_AR)
+
+</td>
+</tr>
+</table>
 
 ### Computational Photography :camera: 
  - [Cinemagraph](https://github.com/max-kazak/CP_Cinemagrpah)
