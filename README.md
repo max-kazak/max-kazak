@@ -4,21 +4,18 @@ I'm a software engineer who's passionate about learning new technologies and app
 
 <table>
 <tr>
-
 <td>
-
+ 
 ### Autonomous Cars :car: 
-
  - [Self-Driving Car](https://github.com/max-kazak/CarND-Capstone) 
  - [PID Controller](https://github.com/max-kazak/PID_Controller) 
  - [Path Planner](https://github.com/max-kazak/PathPlanner) 
  - [Map Localization](https://github.com/max-kazak/Localization-ParticleFilter) 
  - [Behavioral Cloning](https://github.com/max-kazak/AutonomousCar_Mk1) 
  - [Advanced Lane Finding](https://github.com/max-kazak/AdvancedLaneFinding)
- - [Basic Lane Finding](https://github.com/max-kazak/FindLaneLinesP1)
+ - [Basic Lane Finding](https://github.com/max-kazak/FindLaneLinesP1) 
 
-</td>
-<td>
+</td><td>
 
 ### Computer Vision :eyes: 
  - [Sensor Fusion](https://github.com/max-kazak/SensorFusion)
@@ -26,11 +23,9 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Traffic Signs Classification](https://github.com/max-kazak/CarND_TrafficSigns_Classification) 
  - [Object Tracking](https://github.com/max-kazak/CV_Tracking)
  - [Motion Detection](https://github.com/max-kazak/CV_Motion_Detection)
- - [Augmented Reality](https://github.com/max-kazak/CV_AR)
+ - [Augmented Reality](https://github.com/max-kazak/CV_AR) 
 
-</td>
-</tr>
-</table>
+</td><td>
 
 ### Computational Photography :camera: 
  - [Cinemagraph](https://github.com/max-kazak/CP_Cinemagrpah)
@@ -40,6 +35,10 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Panorama](https://github.com/max-kazak/CP_Panorama)
  - [Blending](https://github.com/max-kazak/CP_Pyramid_Blending)
 
+</td>
+</tr><tr>
+<td>
+ 
 ### Deep Learning :brain: 
  - [House Detection](https://github.com/max-kazak/house_detection)
  - [House Number Detection](https://github.com/max-kazak/CV_House_Numbers_Detection)
@@ -47,11 +46,20 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [Lunar Lander](https://github.com/max-kazak/LunarLander)
  - [Correlated Q-Learning](https://github.com/max-kazak/Correlated-QLearning)
 
+</td><td>
+
 ### Robotics :robot: 
  - [Home Service Robot](https://github.com/max-kazak/HomeServiceRobot)
  - [ChaseIt Robot](https://github.com/max-kazak/RoboticsND-ChaseIt)
  - [MapMyWorld](https://github.com/max-kazak/RoboticsND-MapMyWorld)
  - [WhereAmI Robot](https://github.com/max-kazak/RoboticsND-WhereAmI)
+
+### Misc :coffee: 
+ - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller)
+ - [Linux setup](https://github.com/max-kazak/Linux_setup)
+ - [CookieCutter DS template](https://github.com/max-kazak/template-ds)
+
+</td><td>
 
 ### Classes :mortar_board: 
  - [Deep Learning excercises](https://github.com/max-kazak/deep-learning)
@@ -61,11 +69,10 @@ I'm a software engineer who's passionate about learning new technologies and app
  - [LeNet lab](https://github.com/max-kazak/CarND-LeNet-Lab)
  - [TensorFlow lab](https://github.com/max-kazak/CarND-TensorFlow-Lab)
  - [PageRank algorithm](https://github.com/max-kazak/PageRank)
- 
-### Misc :coffee: 
- - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller)
- - [Linux setup](https://github.com/max-kazak/Linux_setup)
- - [CookieCutter DS template](https://github.com/max-kazak/template-ds)
+
+</td>
+</tr>
+</table>
 
 
 
