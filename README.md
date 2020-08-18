@@ -7,52 +7,52 @@ I'm a software engineer who's passionate about learning new technologies and app
 <td>
  
 ### Autonomous Cars :car: 
- - [Self-Driving Car](https://github.com/max-kazak/CarND-Capstone) 
+ - [Self-Driving Car](https://github.com/max-kazak/CarND-Capstone) :star: 
  - [PID Controller](https://github.com/max-kazak/PID_Controller) 
- - [Path Planner](https://github.com/max-kazak/PathPlanner) 
+ - [Path Planner](https://github.com/max-kazak/PathPlanner) :star: 
  - [Map Localization](https://github.com/max-kazak/Localization-ParticleFilter) 
- - [Behavioral Cloning](https://github.com/max-kazak/AutonomousCar_Mk1) 
- - [Advanced Lane Finding](https://github.com/max-kazak/AdvancedLaneFinding)
+ - [Behavioral Cloning](https://github.com/max-kazak/AutonomousCar_Mk1) :star: 
+ - [Advanced Lane Finding](https://github.com/max-kazak/AdvancedLaneFinding) :star: 
  - [Basic Lane Finding](https://github.com/max-kazak/FindLaneLinesP1) 
 
 </td><td>
 
 ### Computer Vision :eyes: 
- - [Sensor Fusion](https://github.com/max-kazak/SensorFusion)
- - [Extended Kalman Filter](https://github.com/max-kazak/EKF)
- - [Traffic Signs Classification](https://github.com/max-kazak/CarND_TrafficSigns_Classification) 
- - [Object Tracking](https://github.com/max-kazak/CV_Tracking)
- - [Motion Detection](https://github.com/max-kazak/CV_Motion_Detection)
- - [Augmented Reality](https://github.com/max-kazak/CV_AR) 
+ - [Sensor Fusion](https://github.com/max-kazak/SensorFusion) :star: 
+ - [Extended Kalman Filter](https://github.com/max-kazak/EKF) :star: 
+ - [Object Tracking](https://github.com/max-kazak/CV_Tracking) :star: 
+ - [Motion Detection](https://github.com/max-kazak/CV_Motion_Detection) :star: 
+ - [Augmented Reality](https://github.com/max-kazak/CV_AR) :star: 
 
 </td><td>
 
 ### Computational Photography :camera: 
- - [Cinemagraph](https://github.com/max-kazak/CP_Cinemagrpah)
- - [Seam Carving](https://github.com/max-kazak/CP_Seam_Carving)
- - [Video Textures](https://github.com/max-kazak/CP_video_textures)
- - [HDR](https://github.com/max-kazak/CP_HDR)
- - [Panorama](https://github.com/max-kazak/CP_Panorama)
- - [Blending](https://github.com/max-kazak/CP_Pyramid_Blending)
+ - [Cinemagraph](https://github.com/max-kazak/CP_Cinemagrpah) :star: 
+ - [Seam Carving](https://github.com/max-kazak/CP_Seam_Carving) :star: 
+ - [Video Textures](https://github.com/max-kazak/CP_video_textures) :star: 
+ - [HDR](https://github.com/max-kazak/CP_HDR) :star: 
+ - [Panorama](https://github.com/max-kazak/CP_Panorama) :star: 
+ - [Blending](https://github.com/max-kazak/CP_Pyramid_Blending) :star: 
 
 </td>
 </tr><tr>
 <td>
  
 ### Deep Learning :brain: 
- - [House Detection](https://github.com/max-kazak/house_detection)
- - [House Number Detection](https://github.com/max-kazak/CV_House_Numbers_Detection)
+ - [Traffic Signs Classification](https://github.com/max-kazak/CarND_TrafficSigns_Classification) :star: 
+ - [House Detection](https://github.com/max-kazak/house_detection) :star: 
+ - [House Number Detection](https://github.com/max-kazak/CV_House_Numbers_Detection) :star: 
  - [Temporal Differences](https://github.com/max-kazak/RL_Sutton)
- - [Lunar Lander](https://github.com/max-kazak/LunarLander)
+ - [Lunar Lander](https://github.com/max-kazak/LunarLander) :star: 
  - [Correlated Q-Learning](https://github.com/max-kazak/Correlated-QLearning)
 
 </td><td>
 
 ### Robotics :robot: 
- - [Home Service Robot](https://github.com/max-kazak/HomeServiceRobot)
- - [ChaseIt Robot](https://github.com/max-kazak/RoboticsND-ChaseIt)
+ - [Home Service Robot](https://github.com/max-kazak/HomeServiceRobot) :star: 
+ - [ChaseIt Robot](https://github.com/max-kazak/RoboticsND-ChaseIt) :star: 
  - [MapMyWorld](https://github.com/max-kazak/RoboticsND-MapMyWorld)
- - [WhereAmI Robot](https://github.com/max-kazak/RoboticsND-WhereAmI)
+ - [WhereAmI Robot](https://github.com/max-kazak/RoboticsND-WhereAmI) 
 
 </td><td>
 
@@ -70,7 +70,7 @@ I'm a software engineer who's passionate about learning new technologies and app
 <td>
  
  ### Misc :coffee: 
- - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller)
+ - [Illuminate your PC](https://github.com/max-kazak/PC_LED_Controller) :star: 
  - [Linux setup](https://github.com/max-kazak/Linux_setup)
  - [CookieCutter DS template](https://github.com/max-kazak/template-ds)
  
