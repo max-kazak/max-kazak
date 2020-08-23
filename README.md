@@ -58,12 +58,12 @@ I'm a software engineer who's passionate about learning new technologies and app
 
 ### Classes :mortar_board: 
  - [Deep Learning excercises](https://github.com/max-kazak/deep-learning)
- - [Reinforcement Learning homeworks](https://github.com/max-kazak/RL_HW)
+ - [Reinforcement Learning HW](https://github.com/max-kazak/RL_HW)
  - [Keras lab](https://github.com/max-kazak/CarND-Keras-Lab)
  - [Transfer Learning](https://github.com/max-kazak/CarND-Transfer-Learning-Lab)
  - [LeNet lab](https://github.com/max-kazak/CarND-LeNet-Lab)
  - [TensorFlow lab](https://github.com/max-kazak/CarND-TensorFlow-Lab)
- - [PageRank algorithm](https://github.com/max-kazak/PageRank)
+ - [PageRank](https://github.com/max-kazak/PageRank)
 
 </td>
 </tr><tr>
