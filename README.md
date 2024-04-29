@@ -6,9 +6,9 @@ I'm a software engineer who's passionate about learning new technologies and app
 <tr>
 <td>
  
-### Autonomous Cars :car: 
+### Autonomous Cars and Drones :car: 
  - [Self-Driving Car](https://github.com/max-kazak/CarND-Capstone) :star: 
- - [PID Controller](https://github.com/max-kazak/PID_Controller) 
+ - [Drone PID Controller](https://github.com/max-kazak/FCND-Controls-CPP) :star: 
  - [Path Planner](https://github.com/max-kazak/PathPlanner) :star: 
  - [Map Localization](https://github.com/max-kazak/Localization-ParticleFilter) 
  - [Behavioral Cloning](https://github.com/max-kazak/AutonomousCar_Mk1) :star: 
