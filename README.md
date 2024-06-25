@@ -39,6 +39,7 @@ I'm a software engineer who's passionate about learning new technologies and app
 <td>
  
 ### Deep Learning :brain: 
+ - [TensorRT Segmentation](https://github.com/max-kazak/trt-segmentation) :star:
  - [Traffic Signs Classification](https://github.com/max-kazak/CarND_TrafficSigns_Classification) :star: 
  - [House Detection](https://github.com/max-kazak/house_detection) :star: 
  - [House Number Detection](https://github.com/max-kazak/CV_House_Numbers_Detection) :star: 
